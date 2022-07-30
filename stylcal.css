@@ -1,0 +1,30 @@
+.heading{
+    text-align: center;
+    color: brown;
+}
+.box{
+    margin-left: 296px;
+    height: 232px;
+    width: 300px;
+    border: solid 2px;
+    background-color: azure;
+}
+#screeen{
+    height: 48px;
+    width: 287px;
+    margin-left: 2px;
+    margin-top: 2px;
+    pointer-events: none;
+}
+
+.btn{
+    height: 26px;
+    width: 68px;
+    margin-left: 3px;
+    margin-top: 10px;
+}
+.cl{
+    margin-top: 7px;
+    margin-left: 238px;
+}
+
